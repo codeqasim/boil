@@ -1,0 +1,5 @@
+system/cache/*
+.idea
+
+application/logs
+application/cache/*
