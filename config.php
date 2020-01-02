@@ -5,7 +5,7 @@ class Config {
 public static $hostname = "localhost";
 public static $username = "root";
 public static $password = "";
-public static $name = "";
+public static $name = "boil";
 
 // *** API Layer Credentials *** //
 public static $currency_key = "6fe22d6838357e898a6cf2c186812a3f";
